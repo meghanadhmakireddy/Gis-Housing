@@ -2,9 +2,10 @@
 GIS-Enabled Housing Management Information System.
 
 to connect with backend (mysql database) :
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git then,
 cd YOUR_REPO
 
+in terminal: 
 composer install
 
 npm install
